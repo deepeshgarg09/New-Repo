@@ -1,9 +1,9 @@
 # New-Repo
-This is my first repo. I will add more information later
-<<<<<<< HEAD
-123456
-=======
-123
-Be Positive
-45678
->>>>>>> 63445d9090ce052420395d15436a65e19308ca36
+**This is my first repo. I will add more information later
+**I hope you find it useful and would like to contribute with me
+
+
+
+**Be Positive
+
+
